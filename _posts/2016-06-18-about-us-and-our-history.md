@@ -1,11 +1,11 @@
 ---
 description: About Us & Our History
-dateModified: '2016-06-17T16:32:58.780Z'
-datePublished: '2016-06-18T18:09:15.596Z'
+dateModified: '2016-06-18T18:09:14.906Z'
+datePublished: '2016-06-20T12:33:24.625Z'
 title: ''
 author: []
-starred: false
 sourcePath: _posts/2016-06-18-about-us-and-our-history.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
